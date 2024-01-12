@@ -1,4 +1,4 @@
-# 🙄 김기창 (Kim, GiChang)
+# 🙄 김기창 (Kim, GiChang) 
 
 ### 🙋‍♂️ Profile
 - 생년월일 : 1999.10.03
