@@ -2,7 +2,9 @@
 
 ### 🙋‍♂️ Profile
 - 생년월일 : 1999.10.03
-- MBTI : ESTJ
+- MBTI : eSTJ
+- Major : Industrial Engineering
+- 취미 : 🏀 🎮 🎞
 
 ---
 
@@ -12,14 +14,35 @@
 
 ---
 
-### 📚 Education
-- 공주대학교
-  - 2018.03 ~ 2024.02
-  - 산업시스템공학 전공
-- SSAFY (Samsung SW Academy For Youth)
-  - 2024.01 ~
+### 📘 In University
+- 통계 + 생산·품질관리 + 자바·파이썬
+- 금융공학
+- 프로젝트 - 날씨별 교통사고 수 예측
 
 ---
+
+### ❔ Why..?
+- 별찍기
+
+---
+
+### 🤵 Want to be
+- 안산학생
+
+---
+
+### ✨ SSAFY!
+- Study
+  - CS
+  - 알고리즘
+- Project
+
+--- 
+
+### 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgc91747)](https://solved.ac/kgc91747/)
+
+--- 
 
 ### 💡 Skills 
 
